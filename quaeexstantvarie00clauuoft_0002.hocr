@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaeexstantvarie00clauuoft_0002.png"; bbox 0 0 1560 2907; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1148 2499 1508 2873">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1148 2499 1508 2873">
+     <span class='ocr_line' id='line_1_1' title="bbox 1148 2499 1505 2616; baseline 0 -42"><span class='ocrx_word' id='word_1_1' title='bbox 1148 2499 1505 2616; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1151 2621 1508 2873; baseline 0 -39"><span class='ocrx_word' id='word_1_2' title='bbox 1151 2792 1508 2873; x_wconf 95' lang='lat' dir='ltr'>  </span> <span class='ocrx_word' id='word_1_3' title='bbox 1459 2621 1508 2834; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1225 2540 1427 2605">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1225 2540 1427 2605">
+     <span class='ocr_line' id='line_1_3' title="bbox 1225 2540 1427 2563; baseline -0.01 0"><span class='ocrx_word' id='word_1_4' title='bbox 1225 2540 1427 2563; x_wconf 76' lang='lat' dir='ltr'>HANDBOUND</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1265 2583 1388 2605; baseline -0.008 0"><span class='ocrx_word' id='word_1_5' title='bbox 1265 2583 1308 2605; x_wconf 80' lang='lat' dir='ltr'>AT</span> <span class='ocrx_word' id='word_1_6' title='bbox 1326 2583 1388 2604; x_wconf 76' lang='lat' dir='ltr'>THE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1300 2637 1353 2661">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1300 2637 1353 2661">
+     <span class='ocr_line' id='line_1_5' title="bbox 1300 2637 1353 2661; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1300 2637 1353 2661; x_wconf 62' lang='lat' dir='ltr'>sk·-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1292 2660 1362 2738">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1292 2660 1362 2738">
+     <span class='ocr_line' id='line_1_6' title="bbox 1292 2660 1362 2738; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1292 2660 1362 2738; x_wconf 51' lang='lat'>5&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1198 2758 1459 2823">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1198 2758 1459 2823">
+     <span class='ocr_line' id='line_1_7' title="bbox 1204 2758 1454 2781; baseline -0.008 0"><span class='ocrx_word' id='word_1_9' title='bbox 1204 2759 1394 2781; x_wconf 73' lang='lat' dir='ltr'>UNlVERSlTY</span> <span class='ocrx_word' id='word_1_10' title='bbox 1412 2758 1454 2780; x_wconf 77' lang='lat' dir='ltr'>OF</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1198 2800 1459 2823; baseline -0.008 0"><span class='ocrx_word' id='word_1_11' title='bbox 1198 2801 1352 2823; x_wconf 80' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_12' title='bbox 1370 2800 1459 2822; x_wconf 73' lang='lat' dir='ltr'><strong>PRESS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1149 2507 1156 2869">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1149 2507 1156 2869">
+     <span class='ocr_line' id='line_1_9' title="bbox 1149 2507 1156 2869; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 1149 2507 1156 2869; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
